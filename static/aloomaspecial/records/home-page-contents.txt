@@ -1,0 +1,53 @@
+﻿Two Plumbing Mistakes That Cost Homeowners Far More Than They Should | Hayes Plumbing<h2>
+The first mistake is trying to find a slab leak yourself. You have heard running water when every faucet is off. Your water bill jumped $90 last month with no explanation. You press your hand to the floor near the water heater and it is warm. You start looking for the source of that warmth by memory of where the pipes might run. You do not have the tools to hear what the pipe beneath six inches of concrete is doing, or to read the temperature differential the concrete surface is showing, or to confirm which supply line is losing pressure. You are spending time while the water continues to saturate the substrate beneath your slab. The longer it runs, the more it costs to correct.
+The second mistake is waiting until the water heater fails completely. The rumbling that started two months ago is sediment accumulation, mineral deposits that have settled at the tank bottom and pop when trapped moisture beneath them vaporizes. The hot water that used to last through two showers now runs out after one. The anode rod inside that tank has been protecting the steel walls from corrosion through electrochemical action, and at some point that rod will be depleted to its steel core wire and the tank walls begin to rust directly. A water heater that shows symptoms is a water heater asking for service. A water heater that fails at 6 am in January is a water heater that was asking for service two months ago.
+Hayes Plumbing handles slab leak detection and repair, water heater repair and replacement, emergency drain cleaning and sewage backup response, and main drain service across all of the markets we serve.
+$$
+
+Slab Leak Detection: Three Technologies, One Confirmed Location<h2>
+Finding a slab leak requires tools that work through concrete without breaking it.
+Acoustic listening equipment amplifies the specific frequency range of sound produced when pressurized water forces its way through a breach in a pipe buried beneath a slab. The sound is too faint for an unaided ear to distinguish from ambient noise. The amplified signal allows a technician to trace the source to a precise location by moving the sensor across the floor surface and tracking increasing signal strength. Hot water leaks read differently than cold water leaks on acoustic equipment, which helps identify which supply line is involved.
+Thermal imaging adds a visual layer. An infrared camera reads temperature differentials at the floor surface. A hot water leak below the slab warms the concrete above it in a pattern that spreads outward from the leak point. On the thermal image, that warm pathway is visible. Cold water leaks create cooler zones in contrast to the ambient floor temperature. Neither technology works perfectly in isolation, which is why we use them together: when the acoustic signal and the thermal image agree on a location, we have confirmation before making a single slab opening.
+A pressure isolation test establishes which supply line is leaking. We valve off the hot and cold supply lines separately and monitor pressure in each. The line that drops pressure over time is the one with the breach. This information determines the repair approach before any access point is cut.
+%%
+
+Water Heater Repair: Reading the Symptoms Before They Become a Failure<h2>
+Every tank water heater gives warning before it fails, but the warnings require knowing what to look for.
+Rumbling from the tank is sediment speaking. Mineral deposits that have collected on the tank floor pop and crack as heated water boils beneath them. That sediment layer also insulates the heating element from the water above it, forcing the element to work harder and longer to maintain temperature. Flushing removes the sediment and reduces the thermal load on both the element and the tank walls.
+Lukewarm water that worsens over time, combined with short white plastic fragments appearing in aerator screens and showerhead filters, points to a failed dip tube. The dip tube directs incoming cold water to the tank bottom for heating. When it cracks or breaks, cold and hot water mix at the top of the tank. The plastic fragments are pieces of the deteriorating polypropylene tube itself.
+A gas water heater where the pilot light will not stay lit has a thermocouple problem. The thermocouple is a small sensing rod in the pilot flame path that generates a tiny electrical voltage from the flame's heat. That voltage signals the gas control valve to remain open and supply gas to the pilot. When the thermocouple fails, no voltage, the valve closes and the pilot extinguishes.
+Call Hayes Plumbing at (833) 957-0980 for water heater repair and emergency plumbing service.
+$$
+
+Emergency Drain Service: Main Line or Fixture?<h2>
+The first question when a drain backs up is whether you are dealing with a clogged fixture or a blocked main sewer line. The answer determines everything about the response.
+A single clogged fixture: one sink that drains slowly, one toilet that is slow to flush. The blockage is local to that fixture's trap or the short branch line connecting it to the larger system.
+A main sewer line blockage: sewage from a flushed toilet backs up into the bathtub or floor drain. Flushing the toilet produces a gurgling response at the kitchen sink. Multiple fixtures back up simultaneously or in sequence. These symptoms indicate the blockage is in the main line downstream from where all those fixtures connect. Every drain in the house leads to that main line, and when it is blocked, any water added at any fixture has nowhere to go but back up through the lowest-lying drains.
+When this pattern appears, stop all water use immediately. Do not flush, do not run the dishwasher, do not start the washing machine. Call Hayes Plumbing at (833) 957-0980 and describe what you are seeing. We respond to main line sewage backups with priority dispatch.
+%%
+
+Water Heater Replacement: Sized for the Demand, Installed to Code<h2>
+Tank water heater replacement requires sizing by First Hour Rating (FHR), the number of gallons the unit can deliver in the first hour of use starting from a full heated tank. FHR combines storage capacity with recovery rate and is the correct sizing metric for storage tank units because it accounts for real usage patterns.
+Installation requires attention to code requirements that vary by jurisdiction but include consistent fundamentals: the temperature and pressure relief (TPR) valve must discharge through a pipe that terminates within 6 inches of the floor, the pipe cannot be reduced in diameter from the valve port, and the end of the pipe cannot be threaded. In closed plumbing systems where a backflow preventer, pressure reducing valve, or check valve prevents thermal expansion from releasing into the street main, an expansion tank on the cold supply line upstream of the water heater is required.
+Hayes Plumbing replaces tank water heaters with full code-compliant installation, including expansion tank installation where the system requires it.
+$$
+
+Frequently Asked Questions<h2>
+<list>
+What plumbing services does Hayes Plumbing provide? We provide slab leak detection using acoustic listening equipment, thermal imaging, and pressure isolation testing, followed by repair through direct slab access, CIPP epoxy pipe lining, or pipe rerouting based on the specific leak and pipe condition. We repair tank water heaters including sediment flushing, anode rod replacement, dip tube replacement, thermocouple replacement, and TPR valve service. We provide emergency drain cleaning and sewage backup response with priority dispatch for main sewer line blockages. We install replacement tank water heaters sized by First Hour Rating with full code-compliant installation.^^
+How much do Hayes Plumbing services cost? Pricing depends on the specific service and scope. Slab leak detection is priced before the visit; repair cost depends on the method required (spot access, CIPP lining, or pipe rerouting) and the extent of damage. Water heater repair is diagnosed before pricing any component replacement. Emergency drain service is priced by call type, with main sewer line response priced at dispatch. Water heater replacement is priced after confirming the required unit size, expansion tank status, and code requirements for the specific installation. We provide written scope and price before any work begins.^^
+How do I know if my plumbing problem is an emergency? Sewage backing up into any fixture that did not initiate the backup is always an emergency. The sound of running water with all fixtures off suggests active slab or supply line leakage requiring same-day evaluation. A water heater that has stopped producing hot water entirely is a priority call. A single slow drain or fixture with reduced pressure is an urgent but not emergency situation. When in doubt, call (833) 957-0980 and describe the symptoms. We help you triage over the phone before dispatching.^^
+Does Hayes Plumbing serve my area? Hayes Plumbing serves homeowners and property managers nationwide. Call (833) 957-0980 to confirm service availability in your specific location and schedule an assessment or emergency response.
+$$
+
+<contact>Hayes Plumbing: Slab Leaks, Water Heaters, and Drains Diagnosed First, Fixed Right<h2>
+The water that has been running under your slab since the pipe failed is not waiting for the right time. The sediment in your tank is not going to flush itself. The sewage that backed up into your bathroom is not going to drain on its own.
+Call (833) 957-0980. We identify exactly what is happening before we recommend any repair.
+$$
+
+<review>
+"The acoustic detection equipment found the slab leak under our kitchen floor to within about a foot of where they eventually cut. One access point, one clean repair, one patch. I had expected jackhammers and a week of disruption. It was done in a day."<h2>-- Sylvester M.
+%%
+"Plastic pieces in our shower filter had been showing up for months. Hayes identified it immediately as dip tube failure and replaced the tube the same day. The shower has had full hot water duration ever since. I had no idea that was even a component that could fail."<h2>-- Cordelia B.
+%%
+"Sewage backed up into our basement floor drain and bathtub at the same time. Called Hayes, they told us over the phone to stop all water use and described exactly what was happening in the main line. Arrived within two hours and had the line cleared before evening."<h2>-- Thaddeus R.
